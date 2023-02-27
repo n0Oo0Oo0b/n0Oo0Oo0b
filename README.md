@@ -8,7 +8,7 @@ Avid member on [Python Discord](https://discord.gg/python), currently looking in
 
 ## Ongoing projects
 - [D3 tech](https://github.com/n0Oo0Oo0b/d3-tech): a student-led CCA focused on creating an app for other students to use in school
-- [Advent of Code](https://github.com/n0Oo0Oo0b/advent-of-code): 236*, 93* on new account
+- [Advent of Code](https://github.com/n0Oo0Oo0b/advent-of-code): 236*, 118* on new account
 - [CambridgeScript](https://github.com/n0Oo0Oo0b/pseudo-interpreter)
 
 ###### Discord: nO0o0Oo0b#0002
