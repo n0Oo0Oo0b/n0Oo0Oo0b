@@ -1,6 +1,6 @@
 # Hello
 
-I code (mostly Python) for fun, speedrun celeste (37:44 any%) and play [osu!](https://osu.ppy.sh/users/29165713) and Genshin Impact (ar56)
+I code (mostly Python) for fun, speedrun celeste (37:44 any%) and play [osu!](https://osu.ppy.sh/users/29165713) and Genshin Impact (ar57)
 
 `@code golfing enthusiast` on [Python Discord](https://discord.gg/python)
 
@@ -9,7 +9,7 @@ I code (mostly Python) for fun, speedrun celeste (37:44 any%) and play [osu!](ht
 - [Advent of Code](https://github.com/n0Oo0Oo0b/advent-of-code): 236*, 118* on new account
 - Learning rust/c++
 - [CambridgeScript](https://github.com/n0Oo0Oo0b/pseudo-interpreter): an interpreter
-  - Working on a Rust version
+  - [Rust version](https://github.com/n0Oo0Oo0b/cambridgescript-rust)
   - I might make a similar thing for IB pseudocode
 
 ###### Discord: n00o0oo0b
