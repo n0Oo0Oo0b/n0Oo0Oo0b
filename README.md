@@ -1,10 +1,9 @@
 # Hello
 
-I do stuff.
+DCSPD '25
+UIUC '29
 
 Helper on [Python Discord](https://discord.gg/python)
-
-Tech Ambassador at DCSPD
 
 Rusty celeste speedrunner (37:44 any%) and rhythm game player (Phigros 15.98, Respect V, [osu!](https://osu.ppy.sh/users/29165713), [mania](https://osu.ppy.sh/users/29165713/mania) )
 
